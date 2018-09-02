@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "149215690119",
+    "firebase_url": "https://ionic3-3370e.firebaseio.com",
+    "project_id": "ionic3-3370e",
+    "storage_bucket": "ionic3-3370e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:149215690119:android:13cefb81862e9948",
+        "android_client_info": {
+          "package_name": "com.salwa.mynotify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "149215690119-o22ee53etjmpnmaaou030p6pc69kvsse.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhpQUQqX3llzGxROSh8R2HXteMrW5Mf2M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
